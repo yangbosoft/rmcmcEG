@@ -11,6 +11,9 @@ furnished to do so, subject to the following conditions:
 
 All people who use   this software  should ack the author of the codes and include the following papers in reference:
 
+@article{heaos2013, title={Reversible MCMC on Markov equivalence classes of sparse directed acyclic graphs}, author={Yangbo He and Jinzhu Jia and Bin Yu}, journal={The Annals of Statistics}, volume={41(1)}, pages={1742-1779}, year={2013}, publisher={Institute of Mathematical Statistics} }
+@article{hesupp, title={Supplement to "Reversible MCMC on Markov equivalence classes of sparse directed acyclic graphs"}, author={Yangbo He and Jinzhu Jia and Bin Yu}, journal={DOI:}, year={2013} }
+@article{heaos2015, title={Counting and Exploring Sizes of Markov Equivalence Classes of Directed Acyclic Graphs}, author={Yangbo He and Jinzhu Jia and Bin Yu}, journal={to appear in Journal of mechine learning research}, year={2015} }
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
