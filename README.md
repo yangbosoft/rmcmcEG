@@ -24,7 +24,8 @@ sizes  of   these classes. All algorithm come from the following papers:
   title={Counting and Exploring Sizes  of    Markov Equivalence Classes  of  Directed
 Acyclic Graphs},
   author={Yangbo He and   Jinzhu Jia  and Bin Yu},
-  journal={Journal of mechine learning research}
+  journal={To appear in Journal of machine learning research},
+  year={2015}
   }
  
 All people who use   this software  should ack the author of the codes and include these papers in reference.
