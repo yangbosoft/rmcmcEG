@@ -20,7 +20,7 @@ sizes  of   these classes. All algorithm come from the following papers:
   publisher={Institute of  Mathematical Statistics}
 }
 
- @article{heaos2015,
+ @article{hejmlr2015,
   title={Counting and Exploring Sizes  of    Markov Equivalence Classes  of  Directed
 Acyclic Graphs},
   author={Yangbo He and   Jinzhu Jia  and Bin Yu},
